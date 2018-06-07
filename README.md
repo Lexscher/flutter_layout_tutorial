@@ -1,8 +1,18 @@
 # flutter_layout_tutorial
 
-A new Flutter application.
+This is my second flutter tutorial. I hope to build something really
+cool in [my other repository](https://github.com/Lexscher/flutter_bug).
 
-## Getting Started
+If you'd like to see what I create after I've finished this up, be sure to check
+it out!
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+I found this tutorial, [here](https://flutter.io/tutorials/layout/).
+It is meant to give you better foundation of layouts when using Flutter!
+
+I'll try to make more commits this time around (_Please, pardon me if I forget_).
+
+-----
+##### Thank you for taking an interest in my code.
+
+### Best,
+## Alexander
