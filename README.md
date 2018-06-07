@@ -1,5 +1,8 @@
 # flutter_layout_tutorial
 
+### UPDATE: This project is being put on hold.
+### If you'd like to know why, please check out the readme from my [main flutter repository](https://github.com/Lexscher/flutter_bug).
+----
 This is my second flutter tutorial. I hope to build something really
 cool in [my other repository](https://github.com/Lexscher/flutter_bug).
 
